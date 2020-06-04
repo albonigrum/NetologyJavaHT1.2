@@ -4,12 +4,12 @@
 
 04.06.2020 - 04.06.2020 было проведено функциональное тестирование приложения CreditCardNumberValidator.
 
-На тестирование затрачено: <время в часах>
+На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/albonigrum/NetologyJavaHT1.2/issues/1
+* https://github.com/albonigrum/NetologyJavaHT1.2/issues/2
+* https://github.com/albonigrum/NetologyJavaHT1.2/issues/3
 
 ## Описание процесса тестирования
 
